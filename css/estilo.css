@@ -2,7 +2,9 @@
 	border: 3px blue ridge; 
 	width: 300px;
 	text-align: center;
-    background-color: gray; }
+    background-color: gray; 
+}
+
 
 #textoPantalla { 
 	width: 200px; 
@@ -13,7 +15,10 @@
     padding: 0px 5px ;
     background-color: blue; 
     font-family: "arial"; 
-    overflow: hidden;}
+    overflow: hidden;
+	color: yellow;
+}
+    
 
 .calculadora [type=button] { 
 	width: 40px; 
