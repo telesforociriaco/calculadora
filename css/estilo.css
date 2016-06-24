@@ -1,13 +1,12 @@
 .calculadora { 
 	border: 3px blue ridge; 
 	width: 300px;
+	height: auto;
 	text-align: center;
    
 }
 
-div {
-	background-image: url("img/tony.jpg");
-}
+
 
 #textoPantalla { 
 	width: 200px; 
@@ -29,4 +28,4 @@ div {
 
 .calculadora input.largo { 
 	color: red; 
-	width: 85px; }
+	width: 69px; }
