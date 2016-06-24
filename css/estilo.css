@@ -2,9 +2,12 @@
 	border: 3px blue ridge; 
 	width: 300px;
 	text-align: center;
-    background-color: gray; 
+   
 }
 
+div {
+	background-image: url("img/tony.jpg");
+}
 
 #textoPantalla { 
 	width: 200px; 
